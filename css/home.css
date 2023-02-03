@@ -825,6 +825,14 @@
   font-size: 64px;
 }
 
+.footer-section .footer .reach-out p, .footer-section .footer .links a, .footer-section .summary p {
+  font-size: 14px;
+}
+
+.footer-section .footer .reach-out a {
+  font-size: 12px;
+}
+
 }
 
   /* End Custom */
