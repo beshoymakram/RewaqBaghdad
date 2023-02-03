@@ -783,6 +783,7 @@
   .releases-section .owl-nav span {
     font-size: 28px;
     padding: 10px 25px;
+    margin: 20px 0;
     color: #fff;
     border-radius: 50%;
   }
@@ -790,6 +791,7 @@
   .meters-section .owl-nav span {
     font-size: 28px;
     padding: 10px 25px;
+    margin: 20px 0;
     color: #fff;
     background-color: #0b5ed7;
     border-radius: 50%;
