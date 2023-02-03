@@ -23,7 +23,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#owl-2").owlCarousel({
-        loop:false,
+        loop:true,
         margin:10,
         nav:false,
         dots:false,
@@ -43,9 +43,9 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#owl-3").owlCarousel({
-        loop:false,
+        loop:true,
         margin:10,
-        nav:false,
+        nav:true,
         dots:false,
         responsive:{
             0:{
@@ -63,7 +63,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#owl-4").owlCarousel({
-        loop:false,
+        loop:true,
         margin:10,
         nav:true,
         dots:true,
@@ -83,7 +83,7 @@ $(document).ready(function(){
 
 $(document).ready(function(){
     $("#owl-5").owlCarousel({
-        loop:false,
+        loop:true,
         margin:10,
         nav:true,
         dots:false,
