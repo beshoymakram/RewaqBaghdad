@@ -799,13 +799,13 @@
 
   .releases-section .owl-nav .owl-prev, .books-section .owl-nav .owl-prev, .meters-section .owl-nav .owl-prev {
       position: absolute;
-      top: 40%;
+      top: 28%;
       left: 0%;
   }
 
   .releases-section .owl-nav .owl-next, .books-section .owl-nav .owl-next, .meters-section .owl-nav .owl-next {
       position: absolute;
-      top: 40%;
+      top: 28%;
       right: 0%;
   }
 
