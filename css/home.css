@@ -116,6 +116,15 @@
 /* End Top Section */
 
 
+/* Slider Section */
+
+  #owl-1 {
+    z-index: -1;
+  }
+
+/* End Slider Section */
+
+
 /* News Section */
 .news-section .item {
     font-size: 14px;
