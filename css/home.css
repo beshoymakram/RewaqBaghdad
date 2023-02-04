@@ -807,6 +807,10 @@
     font-size: 28px;
   }
 
+  .releases-section .section-subtitle, .books-section .section-subtitle {
+    font-size: 22px;
+  }
+
   .app-section .app-summary .text p {
     font-size: 40px;
   }
