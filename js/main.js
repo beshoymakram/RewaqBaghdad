@@ -1,3 +1,5 @@
+  AOS.init();
+
 $(document).ready(function(){
     $("#owl-1").owlCarousel({
         loop:true,
@@ -24,7 +26,7 @@ $(document).ready(function(){
 $(document).ready(function(){
     $("#owl-2").owlCarousel({
         loop:true,
-        margin:10,
+        margin:15,
         nav:false,
         dots:false,
         responsive:{
